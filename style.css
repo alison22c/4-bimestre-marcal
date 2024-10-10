@@ -1,9 +1,29 @@
 /* Add styles here */
 *{
-    margin: 0;
+        margin: 0;
+        padding: 0;
+}
+
+h1{
+    margin: 30px;
+    margin-left: 20px;
+}
+
+h2{
+    margin: 20px; 
+    margin-left: 20px;
+}
+
+input{
+    display: flex;
+    margin-bottom: 20px; 
+    margin-left: 20px;
+
 }
 
 button{
-    width: 200px;
-   height: 500px;  
+    width: 80px;
+   height: 50px;  
+   margin-bottom: 300px;
+   margin-left: 20px;
 }
